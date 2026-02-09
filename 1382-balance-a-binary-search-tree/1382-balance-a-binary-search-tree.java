@@ -24,7 +24,7 @@ class Solution {
         return createBST(list, 0, list.size()-1);
     }
 
-    private void inOrder(TreeNode root, ArrayList<TreeNode> list){
+    public void inOrder(TreeNode root, ArrayList<TreeNode> list){
         if(root == null){
             return;
         }
@@ -33,7 +33,7 @@ class Solution {
         inOrder(root.right, list);
     }
 
-    private TreeNode createBST(ArrayList<TreeNode> list, int st, int end){
+    public TreeNode createBST(ArrayList<TreeNode> list, int st, int end){
         if(st > end){
             return null;
         }
