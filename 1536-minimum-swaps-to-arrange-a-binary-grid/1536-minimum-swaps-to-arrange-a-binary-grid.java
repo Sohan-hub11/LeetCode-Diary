@@ -3,6 +3,7 @@ class Solution {
          int n = grid.length;
         int zeros[] = new int[n]; // O(n)
         // O(n^2)
+        // Finding zeroes in each row.
         for(int i=0; i<n; i++) {
             int count  = 0;
             for(int j=n-1; j>=0; j--) {
@@ -13,6 +14,7 @@ class Solution {
             zeros[i] = count;
         }
 
+        // Swap & count Swap
         int swaps = 0;
         // O(n)*(n+n) = O(n^2)
         for(int i=0; i<n; i++) {
