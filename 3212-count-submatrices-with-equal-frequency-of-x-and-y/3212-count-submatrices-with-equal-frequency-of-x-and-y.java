@@ -1,5 +1,8 @@
 class Solution {
     public int numberOfSubmatrices(char[][] grid) {
+        //T.C => O(m*n)
+        //S.C => O(m*n)
+        
         int m = grid.length;
         int n = grid[0].length;
         int ans = 0;
