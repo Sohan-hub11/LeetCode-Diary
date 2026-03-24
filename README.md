@@ -126,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
