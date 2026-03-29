@@ -1,0 +1,19 @@
+class Solution {
+    public boolean canBeEqual(String s1, String s2) {
+        //Extracting (0,2) & (1,3) index of both string in groups
+        char[] a1 = {s1.charAt(0), s1.charAt(2)};
+        char[] a2 = {s2.charAt(0), s2.charAt(2)};
+
+        char[] b1 = {s1.charAt(1), s1.charAt(3)};
+        char[] b2 = {s2.charAt(1), s2.charAt(3)};
+
+        //Sorting each Arrays
+        Arrays.sort(a1);
+        Arrays.sort(a2);
+        Arrays.sort(b1);
+        Arrays.sort(b2);
+
+        //string are equals or not
+        return Arrays.equals(a1, a2) && Arrays.equals(b1, b2);
+    }
+}
