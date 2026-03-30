@@ -1,5 +1,8 @@
 class Solution {
     public boolean checkStrings(String s1, String s2) {
+        //T.C -- O(n)
+        //S.C -- O(26)
+        
        int n = s1.length() ;
        int[] freqEven = new int[26];
        int[] freqOdd = new int[26];
