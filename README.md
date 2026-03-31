@@ -16,6 +16,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -26,6 +27,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -127,6 +130,7 @@
 | [1622-fancy-sequence](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
