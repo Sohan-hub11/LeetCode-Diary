@@ -1,4 +1,16 @@
-# LeetCode-Diary
+# 📘 LeetCode Diary
+
+A Structured collection of my **LeetCode solutions & DSA journey**. It helps in Tracking progress 📈 , patterns, and problem-solving skills
+
+## 🧠 About
+
+This repository contains my solutions to LeetCode problems.
+
+💡 Goals:
+- Improve problem-solving skills  
+- Master Data Structures & Algorithms  
+- Prepare for coding interviews  
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
