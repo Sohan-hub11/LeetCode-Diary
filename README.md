@@ -19,6 +19,19 @@ This repository contains my solutions to LeetCode problems.
 | 🟡 Medium  | 80+    |
 | 🔴 Hard    | 20+    |
 
+## 📚 Topics Covered
+
+- Arrays  
+- Strings  
+- Linked List  
+- Trees  
+- Graphs  
+- Dynamic Programming  
+- Sliding Window  
+- Two Pointers  
+- Backtracking
+- SQL
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -205,3 +218,10 @@ This repository contains my solutions to LeetCode problems.
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
+
+---
+
+## 👨‍💻 Author
+
+Sohan Samanta  
+GitHub: https://github.com/Sohan-hub11
