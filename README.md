@@ -9,7 +9,15 @@ This repository contains my solutions to LeetCode problems.
 💡 Goals:
 - Improve problem-solving skills  
 - Master Data Structures & Algorithms  
-- Prepare for coding interviews  
+- Prepare for coding interviews
+
+## 📊 Progress
+
+| Difficulty | Solved |
+|------------|--------|
+| 🟢 Easy    | 50+    |
+| 🟡 Medium  | 80+    |
+| 🔴 Hard    | 20+    |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
