@@ -101,6 +101,7 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [1622-fancy-sequence](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
