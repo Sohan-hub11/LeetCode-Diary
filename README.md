@@ -150,6 +150,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
