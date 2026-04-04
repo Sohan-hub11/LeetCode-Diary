@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0078-subsets/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -132,6 +133,7 @@ This repository contains my solutions to LeetCode problems.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
@@ -148,6 +150,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
