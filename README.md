@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems.
 - Sliding Window  
 - Two Pointers  
 - Backtracking
+- Bit Manipulation
 - SQL
 
 <!---LeetCode Topics Start-->
@@ -230,5 +231,8 @@ This repository contains my solutions to LeetCode problems.
 
 ## 👨‍💻 Author
 
-Sohan Samanta  
-GitHub: https://github.com/Sohan-hub11
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
+
+---
+
+⭐ If you found this helpful, give it a **star** and consider contributing!
