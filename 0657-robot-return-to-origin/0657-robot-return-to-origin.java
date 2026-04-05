@@ -1,5 +1,8 @@
 class Solution {
     public boolean judgeCircle(String moves) {
+        // T.C -- O(n)
+        // S.C -- O(n)
+        
         int yDir = 0, xDir = 0;
         int n = moves.length();
         for(int i=0; i<n; i++){
@@ -15,9 +18,6 @@ class Solution {
                 xDir--;
         }
 
-        if(xDir == 0 && yDir == 0)
-            return true;
-
-        return false;
+        return xDir == 0 && yDir == 0;
     }
 }
