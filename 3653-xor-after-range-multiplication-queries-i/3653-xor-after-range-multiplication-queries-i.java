@@ -1,7 +1,8 @@
 class Solution {
     public int xorAfterQueries(int[] nums, int[][] queries) {
-        //T.C -- O(m + n)
-        //S.C -- O(m + n)
+        //T.C -- O(q + n)
+        //S.C -- O(n)
+        
         int mod = 1000_000_007;
         int n = nums.length;
 
