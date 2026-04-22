@@ -1,5 +1,8 @@
 class Solution {
     public List<String> twoEditWords(String[] queries, String[] dictionary) {
+        //T.C -- O(n*m*len)
+        //S.C -- O(n)
+        
         List<String> ans = new ArrayList<>();
         int n = queries.length;
         int i=0, j=0;
@@ -15,11 +18,11 @@ class Solution {
         return ans;
     }
     private boolean chackEquality(String s1, String[] s2){
-        int n = s2.length;
+        int m = s2.length;
         int len = s1.length();
         int i=0, count = 0;
         
-        for(int j=0; j<n; j++){
+        for(int j=0; j<m; j++){
             count = 0;
             i = 0;
             while(count<3 && i<len){
