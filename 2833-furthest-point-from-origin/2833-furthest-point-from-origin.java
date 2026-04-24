@@ -3,24 +3,22 @@ class Solution {
     public int furthestDistanceFromOrigin(String moves) {
         int n = moves.length();
         int Ldist=0, Rdist=0;
-        int dist = 0;
+        int dash = 0;
         for(int i=0; i<n; i++){
             char ch = moves.charAt(i);
 
             if(ch == 'L') {
                 Ldist++;
             }
-            if(ch == 'R') {
+            else if(ch == 'R') {
                 Rdist++;
             }
-            else{
-                dist++;
+            else {
+                dash++;
             }
         }
-        Ldist = Ldist + dist;
-        Rdist = Rdist + dist;
 
-        return Math.max(Ldist, Rdist);
+        return Math.max(Ldist + dash - Rdist, Rdist + dash - Ldist);
     }
 }
 
