@@ -1,4 +1,32 @@
+/* Optimized Way*/
 class Solution {
+    public int furthestDistanceFromOrigin(String moves) {
+        int n = moves.length();
+        int Ldist=0, Rdist=0;
+        int dist = 0;
+        for(int i=0; i<n; i++){
+            char ch = moves.charAt(i);
+
+            if(ch == 'L') {
+                Ldist++;
+            }
+            if(ch == 'R') {
+                Rdist++;
+            }
+            else{
+                dist++;
+            }
+        }
+        Ldist = Ldist + dist;
+        Rdist = Rdist + dist;
+
+        return Math.max(Ldist, Rdist);
+    }
+}
+
+
+
+/* class Solution {
     public int furthestDistanceFromOrigin(String moves) {
         int n = moves.length();
 
@@ -35,4 +63,4 @@ class Solution {
 
         return Math.abs(dist);
     }
-}
+} */
