@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems.
 | [0136-single-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0136-single-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -89,6 +90,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -204,6 +206,7 @@ This repository contains my solutions to LeetCode problems.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -280,6 +283,7 @@ This repository contains my solutions to LeetCode problems.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -293,6 +297,10 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
