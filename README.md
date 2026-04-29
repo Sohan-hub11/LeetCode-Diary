@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2615-sum-of-distances/) | Medium |
@@ -151,6 +152,7 @@ This repository contains my solutions to LeetCode problems.
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -250,6 +252,7 @@ This repository contains my solutions to LeetCode problems.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
