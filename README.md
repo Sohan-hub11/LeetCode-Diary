@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0136-single-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
@@ -95,6 +96,7 @@ This repository contains my solutions to LeetCode problems.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -239,6 +241,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0788-rotated-digits/) | Medium |
