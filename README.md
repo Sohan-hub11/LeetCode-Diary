@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems.
 | [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -220,6 +221,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
