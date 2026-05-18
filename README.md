@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems.
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -184,6 +185,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1345-jump-game-iv](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -341,6 +343,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
