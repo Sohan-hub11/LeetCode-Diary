@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems.
 | [2540-minimum-common-value](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2906-construct-product-matrix/) | Medium |
@@ -192,6 +193,7 @@ This repository contains my solutions to LeetCode problems.
 | [1980-find-unique-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -227,6 +229,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
