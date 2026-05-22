@@ -3,7 +3,9 @@ class Solution {
         int low  = 0;
         int high = nums.length - 1;
         
-        //
+        //T.C -- O(n logn)
+        //S.C -- O(1)
+
         while(low <= high){
             int mid = (low + high)/2;
             if(target == nums[mid])
