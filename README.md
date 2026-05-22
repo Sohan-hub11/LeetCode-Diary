@@ -152,6 +152,7 @@ This repository contains my solutions to LeetCode problems.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3921-score-validator](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3921-score-validator/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
