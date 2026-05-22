@@ -93,6 +93,7 @@ This repository contains my solutions to LeetCode problems.
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ This repository contains my solutions to LeetCode problems.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3921-score-validator](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
