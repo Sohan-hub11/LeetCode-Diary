@@ -10,6 +10,8 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
+        //T.C -- O(n), S.C -- O(1)
+        
         //edge case
         if(head == null || head.next == null)
             return head;
@@ -47,6 +49,11 @@ class Solution {
         ListNode newHead = newTail.next;
         newTail.next = null;
         tail.next = head;
+
+        //[1,2,3,4,5]
+        //[1,2,3,null] , newhead -> 4
+        //5 -> 1
+        //[4,5,1,2,3,null]
 
         return newHead;
     }
