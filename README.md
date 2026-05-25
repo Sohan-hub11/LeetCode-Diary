@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems.
 | [0136-single-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1306-jump-game-iii/) | Medium |
@@ -198,6 +199,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -237,6 +239,7 @@ This repository contains my solutions to LeetCode problems.
 | [0078-subsets](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -246,6 +249,7 @@ This repository contains my solutions to LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -274,6 +278,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1622-fancy-sequence/) | Hard |
@@ -296,6 +301,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [1340-jump-game-v](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
