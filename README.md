@@ -321,6 +321,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2540-minimum-common-value/) | Easy |
@@ -375,6 +376,10 @@ This repository contains my solutions to LeetCode problems.
 | [1345-jump-game-iv](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
