@@ -282,6 +282,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
