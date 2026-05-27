@@ -242,6 +242,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
@@ -283,6 +284,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
