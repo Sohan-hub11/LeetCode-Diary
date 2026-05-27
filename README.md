@@ -156,6 +156,7 @@ This repository contains my solutions to LeetCode problems.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3921-score-validator](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3921-score-validator/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3931-check-adjacent-digit-differences/) | Easy |
@@ -214,6 +215,7 @@ This repository contains my solutions to LeetCode problems.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
