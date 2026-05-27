@@ -1,3 +1,7 @@
+// Brute force Approach.
+
+/*
+    
 class Solution {
     public int singleNumber(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -13,5 +17,21 @@ class Solution {
         }
 
         return res;
+    }
+}
+*/
+
+
+/* Optimal Approach - using Bit Manipulation*/
+
+class Solution {
+    public int singleNumber(int[] nums) {
+        int ans = 0;
+
+        for(int num: nums){
+            ans ^= num;
+        }
+
+        return ans;
     }
 }
