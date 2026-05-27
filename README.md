@@ -149,6 +149,7 @@ This repository contains my solutions to LeetCode problems.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2129-capitalize-the-title](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2129-capitalize-the-title/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2573-find-the-string-with-lcp/) | Hard |
