@@ -149,6 +149,7 @@ This repository contains my solutions to LeetCode problems.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2129-capitalize-the-title/) | Easy |
@@ -176,6 +177,7 @@ This repository contains my solutions to LeetCode problems.
 | [0657-robot-return-to-origin](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2751-robot-collisions/) | Hard |
