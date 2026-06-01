@@ -3,11 +3,6 @@ class Solution {
         //T.C -- O(n/3), S.C -- O(1)
         
         int n = cost.length;
-
-        if(n == 2)
-            return cost[0]+cost[1];
-        if(n == 1)
-            return cost[0];
         
         Arrays.sort(cost);
 
