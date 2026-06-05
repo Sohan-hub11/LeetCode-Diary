@@ -213,6 +213,7 @@ This repository contains my solutions to LeetCode problems.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +321,7 @@ This repository contains my solutions to LeetCode problems.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Design
