@@ -1,6 +1,6 @@
 # 📘 LeetCode Diary
 
-A Structured collection of my **LeetCode solutions & DSA journey**. It helps in Tracking progress 📈 , patterns, and problem-solving skills
+A Structured collection of my **LeetCode solutions & DSA journey**. It helps in Tracking progress 📈 , patterns, and problem-solving skills.
 
 ## 🧠 About
 
