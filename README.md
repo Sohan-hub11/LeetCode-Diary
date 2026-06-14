@@ -286,6 +286,7 @@ This repository contains my solutions to LeetCode problems.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
