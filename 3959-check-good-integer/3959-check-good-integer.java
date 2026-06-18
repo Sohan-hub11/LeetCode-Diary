@@ -1,5 +1,7 @@
 class Solution {
     public boolean checkGoodInteger(int n) {
+        //T.C -- O(log n), S.C -- O(1)
+        
         int digitSum = 0; 
         int squareSum = 0;
 
