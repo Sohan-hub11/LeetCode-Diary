@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1861-rotating-the-box/) | Medium |
@@ -338,6 +339,7 @@ This repository contains my solutions to LeetCode problems.
 | [0788-rotated-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1622-fancy-sequence/) | Hard |
+| [1840-maximum-building-height](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -367,6 +369,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [1340-jump-game-v](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2126-destroying-asteroids/) | Medium |
