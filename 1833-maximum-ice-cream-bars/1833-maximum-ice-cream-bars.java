@@ -3,7 +3,7 @@
 /* 
 class Solution {
     public int maxIceCream(int[] costs, int coins) {
-        //T.C -- O(n), S.C -- O(n)
+        //T.C -- O(n + n logn), S.C -- O(n)
 
         Arrays.sort(costs);
         int ans = 0;
