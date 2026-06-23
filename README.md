@@ -237,6 +237,7 @@ This repository contains my solutions to LeetCode problems.
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@ This repository contains my solutions to LeetCode problems.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +421,7 @@ This repository contains my solutions to LeetCode problems.
 | [3546-equal-sum-grid-partition-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
