@@ -99,6 +99,7 @@ This repository contains my solutions to LeetCode problems.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -274,6 +275,7 @@ This repository contains my solutions to LeetCode problems.
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -333,6 +335,7 @@ This repository contains my solutions to LeetCode problems.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -344,10 +347,12 @@ This repository contains my solutions to LeetCode problems.
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
