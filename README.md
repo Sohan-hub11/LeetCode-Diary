@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -213,6 +214,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -236,6 +238,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1340-jump-game-v/) | Hard |
@@ -376,6 +379,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1622-fancy-sequence/) | Hard |
@@ -558,6 +562,10 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
