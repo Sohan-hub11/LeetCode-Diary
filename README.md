@@ -123,6 +123,7 @@ This repository contains my solutions to LeetCode problems.
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Greedy
@@ -232,6 +233,7 @@ This repository contains my solutions to LeetCode problems.
 | [3614-process-string-with-special-operations-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Dynamic Programming
@@ -400,6 +402,7 @@ This repository contains my solutions to LeetCode problems.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +439,7 @@ This repository contains my solutions to LeetCode problems.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,6 +460,7 @@ This repository contains my solutions to LeetCode problems.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +559,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
