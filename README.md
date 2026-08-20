@@ -90,6 +90,7 @@ This repository contains my solutions to LeetCode problems.
 | [2784-check-if-array-is-good](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -283,6 +284,7 @@ This repository contains my solutions to LeetCode problems.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -469,6 +471,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1291-sequential-digits/) | Medium |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
