@@ -217,6 +217,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -242,6 +243,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1340-jump-game-v/) | Hard |
@@ -384,6 +386,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1622-fancy-sequence/) | Hard |
@@ -575,6 +578,10 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
