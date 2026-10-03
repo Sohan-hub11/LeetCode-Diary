@@ -176,6 +176,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0020-valid-parentheses/) | Easy |
 | [0520-detect-capital](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0796-rotate-string/) | Easy |
@@ -489,6 +490,7 @@ This repository contains my solutions to LeetCode problems.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/2751-robot-collisions/) | Hard |
@@ -582,6 +584,10 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
