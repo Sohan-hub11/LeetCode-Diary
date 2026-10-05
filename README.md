@@ -242,6 +242,7 @@ This repository contains my solutions to LeetCode problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0509-fibonacci-number/) | Easy |
@@ -383,6 +384,7 @@ This repository contains my solutions to LeetCode problems.
 | [0007-reverse-integer](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0396-rotate-function/) | Medium |
@@ -583,6 +585,7 @@ This repository contains my solutions to LeetCode problems.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sohan-hub11/LeetCode-Diary/tree/main/0509-fibonacci-number/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
